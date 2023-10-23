@@ -13,9 +13,9 @@ This is a Java implementation of a dictionary based on a compressed trie (radix 
 ● **-d:** Prints all the words stored in the dictionary in alphabetical order.
 
 ● **-w word X:** Searches the Trie for all words of the same length as *word* that are exactly X characters away from the given *word*. For example, the words boy and toy are one character apart.
-the words small and smell are one character apart.
-the words small and smile are two characters apart.
-the words newspaper and newsgroup are five characters apart.
+The words small and smell are one character apart.
+The words small and smile are two characters apart.
+The words newspaper and newsgroup are five characters apart.
 
 ● -s suffix: Searches the Trie for words containing the given suffix.
 
