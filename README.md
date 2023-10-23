@@ -17,9 +17,9 @@ The words small and smell are one character apart.
 The words small and smile are two characters apart.
 The words newspaper and newsgroup are five characters apart.
 
-● -s suffix: Searches the Trie for words containing the given suffix.
+● **-s suffix:** Searches the Trie for words containing the given suffix.
 
-● -q: Prints the string “Bye bye!” followed by a newline character and terminates the program.
+● **-q:** Terminates the program.
 
 # Compilation and Execution.
 Compile the files using the command:
