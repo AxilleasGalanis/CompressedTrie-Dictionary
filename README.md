@@ -1,1 +1,1 @@
-# CompressedTrieDictionary
+# Compressed Trie Dictionary
